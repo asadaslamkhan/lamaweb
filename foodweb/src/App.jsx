@@ -29,7 +29,7 @@ function App() {
     <div className="min-h-screen bg-white flex flex-col p-4">
       <header className="bg-primary text-primary-foreground shadow-lg mb-8">
         <div className="container mx-auto px-4 py-6 flex justify-between items-center">
-          <h1 className="text-3xl font-bold">Food Website</h1>
+          <h1 className="text-3xl font-bold">there is an error occure</h1>
         </div>
       </header>
 
